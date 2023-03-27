@@ -1,4 +1,10 @@
 CREATE A BACK-END APP WITH JAVASCRIPT
+
+The following is a Codecademy Courswork project done during the back-end course at the following link:
+https://www.codecademy.com/paths/create-a-back-end-app-with-javascript/tracks/connecting-javascript-and-sql/modules/codestrips/projects/codestrips-prj
+
+Begin here:
+
 Cumulative Project: Codestrips
 Let’s build an API for Codestrips! Codestrips is a small application to allow users to create and save small one-pane comic strips. You can select a head, body, background location, thought/speech bubble type, thought/speech bubble text, and caption for a strip. By the end of this project, you’ll be able to save these to a SQLite database and retrieve them so that they persist even when you restart your server.
 
