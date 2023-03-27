@@ -7,3 +7,5 @@ gpt_app.js
 testing_app.js
 
 app2.js
+
+*.sqlite
