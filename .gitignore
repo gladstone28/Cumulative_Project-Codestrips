@@ -1,0 +1,9 @@
+*.txt
+
+node_modules/
+
+gpt_app.js
+
+testing_app.js
+
+app2.js
